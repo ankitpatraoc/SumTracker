@@ -1,5 +1,5 @@
 const PRODUCT = {
-  LIST: "products/",
+  LIST: "products",
 };
 
 export { PRODUCT };
